@@ -1,28 +1,5 @@
 # Artificial Intelligence Nanodegree Program Resources
 
-## Classroom Exercises
-
-### 1. Constraint Satisfaction Problems
-In this exercise you will explore Constraint Satisfaction Problems in a Jupyter notebook and use a CSP solver to solve a variety of problems.
-
-Read more [here](/Exercises/1_Constraint%20Satisfaction)
-
-
-### 2. Classical Search for PacMan (only in classroom)
-
-**Please DO NOT publish your work on this exercise.**
-
-In this exercise you will teach Pac-Man to search his world to complete the following tasks:
-* find a single obstacle
-* find multiple obstacles
-* find the fastest way to eat all the food in the map
-
-
-### 3. Local Search Optimization
-
-In this exercise, you'll implement several local search algorithms and test them on the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP) between a few dozen US state capitals.
-
-
 ## Projects
 
 ### 1. Sudoku Solver
